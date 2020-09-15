@@ -27,7 +27,7 @@ baseurl: "/gueb" # the subpath of your site, e.g. /blog
 url: "https://javierdiezcanseco.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  javierdiezcanseco
-sidebar_image: /assets/images/cover.jpg
+sidebar_image: /assets/images/mapa-Peru-HRW-libro-benavides-pq.png
 
 # Build settings
 #theme: minima
