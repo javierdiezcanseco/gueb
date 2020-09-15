@@ -29,8 +29,8 @@ github_username:  javierdiezcanseco
 
 # Build settings
 #theme: minima
-#remote-theme: thephuse/strange_case
-remote-theme: mmistakes/so-simple-theme@3.2.0
+remote-theme: thephuse/strange_case
+#remote-theme: mmistakes/so-simple-theme@3.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme ## añadido
